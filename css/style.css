@@ -29,9 +29,10 @@
 	font-weight: normal;
 	font-style: normal;
 	background-color: #000000;
+	 overflow-x: hidden;
 }
 .img {
-	max-width: 100%;
+	max-width: 100% !important;
 	transition: all 0.3s ease-out 0s;
 }
 .f-left {
